@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: ${cn.ismuci.sunset.server.url}
+      config:
+        server-addr: ${cn.ismuci.sunset.server.url}
+        file-extension: properties
+        name: ${spring.application.name}
