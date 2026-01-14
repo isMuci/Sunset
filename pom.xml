@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>sunset-common</module>
+        <module>sunset-auth</module>
     </modules>
 
     <properties>
