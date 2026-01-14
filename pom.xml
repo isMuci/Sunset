@@ -61,7 +61,7 @@
             </dependency>
 
             <dependency>
-                <groupId>cn.ismuci</groupId>
+                <groupId>cn.ismuci.sunset</groupId>
                 <artifactId>sunset-config</artifactId>
                 <version>${project.version}</version>
             </dependency>
